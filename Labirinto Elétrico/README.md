@@ -1,23 +1,27 @@
 # Labirinto Elétrico
 
-Labirinto de arame que deve ser percorrido por uma ponta metálica que, caso encoste no arame, fechará contato e produzirá um sinal sonoro, indicando que a pessoa perdeu e deve recomeçar.
+  Labirinto de arame que deve ser percorrido por uma ponta metálica que, caso encoste no arame, fechará contato e produzirá um sinal sonoro, indicando que a pessoa perdeu e deve recomeçar.
 
-Materias:
+  Materias Utilizados:
+  
+  -Arame 1 metro.
 
--Arame 1 metro.
+  -MDF 3mm ou 4 mm "Base".
 
--MDF 3mm ou 4 mm "Base".
+  -Arduino.
 
--Arduino.
+  -4 LED.
 
--4 LED.
+  -1 Buzzer.
 
--1 Buzzer.
+  -Jumper.
 
--Jumper.
+  -Fio elétrico fino.
 
--Fio elétrico fino.
-
--Isolante termo retrátil.
+  -Isolante termo retrátil.
 
 -Botão reset.
+
+# Ferramentas utilizadas:
+
+-Arduino IDE
